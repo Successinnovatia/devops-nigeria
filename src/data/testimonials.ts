@@ -31,6 +31,6 @@ export const testimonials: Testimonial[] = [
     role: 'DevOps Consultant',
     company: 'Andela',
     quote: 'Starting as a junior developer with no operations experience, this program helped me develop the skills to lead infrastructure modernization projects across multiple companies.',
-    imageUrl: 'https://images.pexels.com/photos/1181686/pexels-photo-1181686.jpeg'
+    imageUrl: 'https://img.freepik.com/free-photo/woman-latino-hair-salon_23-2150286040.jpg?t=st=1753765451~exp=1753769051~hmac=611a7ecb6bc2591b494eda8712f0eca10b653fea8245763eef1d7eb674980e84&w=2000'
   }
 ];
